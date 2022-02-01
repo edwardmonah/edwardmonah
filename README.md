@@ -1,6 +1,6 @@
 Hi, I’m @edwardmonah
-I’m interested in Computer Science, Physics, Designing, Golf, Bouldering, Skateboarding and playing thee saxophone 
-I’m currently studying Computing and Information Systems at Queen Mary Universitty of London.
+I’m interested in Computer Science, Physics, Designing, Golf, Bouldering, Skateboarding and playing the saxophone 
+I’m currently studying Computing and Information Systems at Queen Mary University of London.
 I’m looking to become a software engineer.
 How to reach me: edwardmonah@gmail.com
 
